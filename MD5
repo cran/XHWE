@@ -1,0 +1,14 @@
+387055f2b8739f818c2af9b8b3a1460b *DESCRIPTION
+854d13152236c9d85c91f4724830a258 *NAMESPACE
+8fc2c069729f8acdb6496bfc349e19ed *R/Likelihoodfun.R
+c7c2171867114ac0d808dc08b63abd27 *R/XHWE.R
+482fc26a1407e69b0dcf7b5ba08c95a6 *R/emc.R
+e6de235414624a5ef8478fdb8d4ab347 *R/emf.R
+adfb3e14d85bd19332ebff9f02e2012b *R/result.R
+5cbf1af57500753cfd9911d32104be56 *data/ped.rda
+e8b52dc8ffb200379981b0b8529ee09a *man/Likelihoodfun.Rd
+458b5c9e49bde5e63e1cdc887e3a3331 *man/XHWE.Rd
+cd21be44555334c343a9962f444711eb *man/emc.Rd
+c6f309da5a215af58dc99e5f42cc3890 *man/emf.Rd
+2dc76b97d020f0973b647e72f3ae5f65 *man/ped.Rd
+f8c92cf98ed47307c20a902c565f45a3 *man/result.Rd

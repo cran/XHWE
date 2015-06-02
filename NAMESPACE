@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+
+
+export(emc)
+export(emf)
+export(Likelihoodfun)
+export(result)
+export(XHWE)
